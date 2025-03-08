@@ -12,22 +12,10 @@
 
 ### 🚀 **Featured Projects**
 
-🚀 **DS Security** - Built a cybersecurity training platform for real-world exploit simulation  
+🚀 **[DS Security](https://thedssecurity.com) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fthedssecurity.com)](https://thedssecurity.com)** - Built a cybersecurity training platform for real-world exploit simulation  
 💀 **DS Viper** - Focused on malware analysis, evasion techniques, and detection bypass research  
 
-
-### 🔥 **Technologies & Tools**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white">
-  <img src="https://img.shields.io/badge/-Burp%20Suite-FF8000?style=flat&logo=burp-suite&logoColor=white">
-</p>
-
 ---
-
 
 💡 Always open to collaborating on security research, projects, or just geeking out about exploits! 
 
