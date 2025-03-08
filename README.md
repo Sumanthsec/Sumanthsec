@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Sumanth Vankineni! 👋
 
-<!--
-**Sumanthsec/Sumanthsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 Cybersecurity | Red Team | AppSec | Cloud Security | Malware Research
 
-Here are some ideas to get you started:
+🔹 Passionate about offensive security, vulnerability research, and breaking things to make them secure. 
+🔹 Exploring malware development, AI/ML security, and cloud penetration testing.
+🔹 Always learning and sharing my knowledge through research, CTFs, and security tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Featured Projects
+
+🚀 **DS Security** - Built a cybersecurity training platform for real-world exploit simulation
+💀 **DS Viper** - Focused on malware analysis, evasion techniques, and detection bypass research
+
+---
+
+💡 Always open to collaborating on security research, projects, or just geeking out about exploits! 
+
+🔗 **Connect with Me**: [LinkedIn](https://www.linkedin.com/in/sumanthvankineni/)
