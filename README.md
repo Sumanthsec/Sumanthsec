@@ -12,7 +12,7 @@
 
 ### 🚀 **Featured Projects**
 
-🚀 **[DS Security] (https://thedssecurity.com)** - Built a cybersecurity training platform for real-world exploit simulation  
+🚀 **[DS Security](https://thedssecurity.com)** - Built a cybersecurity training platform for real-world exploit simulation  
 💀 **DS Viper** - Focused on malware analysis, evasion techniques, and detection bypass research  
 
 ---
