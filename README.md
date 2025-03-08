@@ -15,15 +15,6 @@
 🚀 **DS Security** - Built a cybersecurity training platform for real-world exploit simulation  
 💀 **DS Viper** - Focused on malware analysis, evasion techniques, and detection bypass research  
 
----
-
-### 📊 **GitHub Stats & Streaks**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthvankineni&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🔥 **Technologies & Tools**
 <p align="center">
@@ -37,10 +28,7 @@
 
 ---
 
-### 🌍 **Visitors**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=sumanthvankineni&color=blue&style=flat-square)
 
 💡 Always open to collaborating on security research, projects, or just geeking out about exploits! 
 
-🔗 **Connect with Me**: [LinkedIn](https://www.linkedin.com/in/sumanthvankineni/) | [Twitter](https://twitter.com/yourhandle) | [Personal Blog](https://yourblog.com)
+🔗 **Connect with Me**: [LinkedIn](https://www.linkedin.com/in/sumanthvankineni/)
